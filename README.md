@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sridhar Gajula</h1>
+<h1 align="center">Hi, I'm Sridhar Gajula</h1>
 <h3 align="center">Turning ideas into intelligent AI solutions | AI/ML enthusiast</h3>
 
 -  I’m currently learning **Advanced Generative AI, RAG systems, multi-agent and AI frameworks**
