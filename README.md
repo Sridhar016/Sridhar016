@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sridhar Gajula</h1>
 <h3 align="center">Turning ideas into intelligent AI solutions | AI/ML enthusiast</h3>
 
-- 🌱 I’m currently learning **Advanced Generative AI, RAG systems, multi-agent and AI frameworks**
+-  I’m currently learning **Advanced Generative AI, RAG systems, multi-agent and AI frameworks**
 
-- 👨‍💻 All of my projects are available at [https://by-sridhar.vercel.app](https://by-sridhar.vercel.app)
+-  All of my projects are available at [https://by-sridhar.vercel.app](https://by-sridhar.vercel.app)
 
-- 📝 I regularly write articles on [https://by-sridhar.vercel.app/#blog](https://by-sridhar.vercel.app/#blog)
+-  I regularly write articles on [https://by-sridhar.vercel.app/#blog](https://by-sridhar.vercel.app/#blog)
 
-- 📫 How to reach me **sridharnetha16@gmail.com**
+-  How to reach me **sridharnetha16@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17XUoYu9xRs-Ox9g-vQMZy5txdaf0MjQL/view?usp=drive_link](https://drive.google.com/file/d/17XUoYu9xRs-Ox9g-vQMZy5txdaf0MjQL/view?usp=drive_link)
+-  Know about my experiences [https://drive.google.com/file/d/17XUoYu9xRs-Ox9g-vQMZy5txdaf0MjQL/view?usp=drive_link](https://drive.google.com/file/d/17XUoYu9xRs-Ox9g-vQMZy5txdaf0MjQL/view?usp=drive_link)
 
 
 <h3 align="left">Languages and Tools:</h3>
